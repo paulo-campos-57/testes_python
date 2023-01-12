@@ -1,4 +1,4 @@
 # testes_python
-Calculadora desenvolvida em Python com a metodologia de TDD
+Calculadora de números naturais desenvolvida em Python com a metodologia de TDD
 
-Calculator developed in Python with TDD methodology
+Natural number calculator developed in Python with TDD methodology
